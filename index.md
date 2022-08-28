@@ -1,6 +1,6 @@
 ## Welcome to mSTP project
 
-This is an initial version of the website.
+![](title_image.png)
 
 ### Privacy Policy
 
