@@ -2,6 +2,14 @@
 
 ![](title_image.png)
 
+## What is mSTP project?
+
+mSTP stands for **m**obile **S**ubjective **T**ime **P**erception App. Yeah, but what actually is this whole *Subjective Time Perception* thing? In the simplest words, it is how do we perceive the time passing. Have you ever feel so bored during waiting for your train, when minutes passed like hours? Just compare it to your first date, where just after a while you both notice that actually your favourite caffee is about to close, and it is almost midnight. In both cases you experienced subjective time perception. 
+
+How it is possible you might ask? Well.. this is quite complicated issue. Whole research on subjective time perception is a field within psychology, cognitive linguistic and neurosciences. There are multiple factors affecting how do we perceive the time, starting from psychology, through biology (our age), ending with neurological and environmental sciences (our surrounding and the circadian rhythm might affect time perception as well!).
+
+Thats why we also want to discover a small piece of the time perception mystery. We would like to conduct a simple citizen science style experiment with a mobile app to discover how different people perceive the time passing. This website is an accompany website to mSTP App.
+
 ### Privacy Policy
 
 **Privacy Policy**
