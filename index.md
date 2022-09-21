@@ -10,6 +10,17 @@ How it is possible you might ask? Well.. this is quite complicated issue. Whole 
 
 Thats why we also want to discover a small piece of the time perception mystery. We would like to conduct a simple citizen science style experiment with a mobile app to discover how different people perceive the time passing. This website is an accompany website to mSTP App.
 
+Some recent papers on subjective time perception:
+- A. Yusupova et al., *Subjective perception of time in space flights and analogs*, 10.1016/j.actaastro.2022.04.016
+- EK. Miywaki, *Subjective Time Perception, Dopamine Signalling, and Parkinsonian Sloweness.* - 10.3389/fneur.2022.927160. PMID: 35899266; PMCID: PMC9311331
+- Eugene Y. Chan, Najam U. Saqib, *How Long Has It Been? Self-Construal and Subjective Time Perception* - https://doi.org/10.1177/01461672211016919
+
+mSTP project is conducted in [Analog Astronaut Training Center](https://www.astronaut.center/) in Krakow, Poland. We encourage you to visit their website and join the Analog Astronauts community!
+
+### mSTP App
+
+The mSTP app is currently in the process of publication at the Google Play. It will be available soon! Stay tuned!.
+
 ### Privacy Policy
 
 **Privacy Policy**
