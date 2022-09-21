@@ -17,9 +17,9 @@ Some recent papers on subjective time perception:
 
 mSTP project is conducted in [Analog Astronaut Training Center](https://www.astronaut.center/) in Krakow, Poland. We encourage you to visit their website and join the Analog Astronauts community!
 
-### mSTP App
+## mSTP App
 
-The mSTP app is currently in the process of publication at the Google Play. It will be available soon! Stay tuned!.
+**The mSTP app is currently in the process of publication at the Google Play. It will be available soon! Stay tuned!**
 
 ### Privacy Policy
 
